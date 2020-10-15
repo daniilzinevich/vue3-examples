@@ -1,5 +1,6 @@
 # Vue 3 examples
-> read example description on a specific branch
+
+This is a simple vue application that uses reactive state and computed values  
 
 This project is a few proof of concepts for presentation over lesser known Vue features and their Vue 3 implementation  
 Presentation is here https://slides.com/daniilzinevich/vue3_tips
